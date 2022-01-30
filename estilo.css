@@ -1,0 +1,8 @@
+body{text-align:center;font-size:16pt;color:#fff;background-image:url(black.jpg)}h2{color:#e51d3f}.howcute{width:400px}h1{color:#e51d3f}
+@font-face {
+  font-family: "VT323";
+  src: url("./VT323-Regular.ttf") format("truetype");
+}
+body {
+  font-family: "VT323", sans-serif;
+}
