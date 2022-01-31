@@ -1,0 +1,8 @@
+body{text-align:center;font-size:16pt;color:#000000;background-image:url(black.jpg)}h2{color:#e51d3f}.howcute{width:400px}h1{color:#e51d3f}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("./Ubuntu-Light.ttf") format("truetype");
+}
+body {
+  font-family: "Ubuntu", sans-serif;
+}
