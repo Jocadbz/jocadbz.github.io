@@ -1,8 +1,26 @@
-body{text-align:center;font-size:16pt;color:#fff}h2{color:#e51d3f}.howcute{width:400px}h1{color:#e51d3f}
+body{text-align:center;font-size:16pt;color:#fff}h2{color:#e51d3f}.howcute{width:400px}h1{color:#e51d3f}h3{color:#e51d3f}
 @font-face {
   font-family: "VT323";
   src: url("./VT323-Regular.ttf") format("truetype");
 }
 body {
   font-family: "VT323", sans-serif;
+}li{
+  float: left;
+}
+
+li a{
+  color: #ffffff;
+  display: block;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+
+ul{
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  list-style-type: none;
 }
