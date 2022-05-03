@@ -1,7 +1,0 @@
-Origin: Jocadbz
-Label: Jocadbz Github
-Suite: stable
-Codename: focal
-Architectures: amd64
-Components: main
-Description: Personal Jocadbz packages hosted on github
