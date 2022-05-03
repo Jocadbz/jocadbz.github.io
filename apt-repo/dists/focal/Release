@@ -1,0 +1,20 @@
+Origin: Jocadbz
+Label: Jocadbz Github
+Suite: stable
+Codename: focal
+Date: Tue, 03 May 2022 03:03:12 UTC
+Architectures: amd64
+Components: main
+Description: Personal Jocadbz packages hosted on github
+MD5Sum:
+ b441b472dba6c54e93cc261007ccae67 540 main/binary-amd64/Packages
+ 19e4bd609d0592290cbf81b7f9517d6a 391 main/binary-amd64/Packages.gz
+ fc44ce63b8e5d5a3772d0e84d4d99806 146 main/binary-amd64/Release
+SHA1:
+ 32709c68021d74335912fa82b03f2e97947ba747 540 main/binary-amd64/Packages
+ 304ea23cc53e5884a6d0a6ca3de160de9aead16f 391 main/binary-amd64/Packages.gz
+ c64a702d07934284074983249d08823180a5152e 146 main/binary-amd64/Release
+SHA256:
+ e6da37fda50b1ef8c5537956006ea043b85e6af12cc31f9d0ae0f4d5793b48f3 540 main/binary-amd64/Packages
+ 382589cc88dbfede372a24a26d8a1e11dbe15fdf5665c4ac69787499c3f53835 391 main/binary-amd64/Packages.gz
+ 91d387e36fc64a4977dd6ccd7f8a56e98e0b0c2b76a7baf816eae130e99986c3 146 main/binary-amd64/Release

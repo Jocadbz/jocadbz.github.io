@@ -1,0 +1,16 @@
+Package: project-start
+Version: 1.2.0
+Installed-Size: 6744
+Maintainer: Jocadbz <madureirajoaquim95@gmail.com>
+Homepage: https://github.com/Jocadbz/project-start
+Architecture: all
+Depends: python3 (>=3.7.0-0ubuntu2)
+Priority: optional
+Section: utils
+Filename: pool/main/p/project-start/project-start_1.2.0_all.deb
+Size: 6770764
+SHA256: 4a3287b3ca1a10357de79899736c5271b14655409b6d7045070c3ab7f3afb071
+SHA1: 5c4d7f8dd76f994b6fcdeb4288c0da285e854ed8
+MD5sum: d726ab0895d204f04584d60e8e597343
+Description: A simple tool to start your projects.
+
