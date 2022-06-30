@@ -1,4 +1,4 @@
-body{text-align:center;font-size:16pt;color:#fff}h2{color:#e51d3f}.howcute{width:400px}h1{color:#e51d3f}h3{color:#e51d3f}
+body{text-align:center;font-size:16pt;color:rgb(0, 0, 0)}h2{color:#525252}.howcute{width:400px}h1{color:#525252}h3{color:#525252}
 @font-face {
   font-family: "VT323";
   src: url("./VT323-Regular.ttf") format("truetype");
@@ -10,7 +10,7 @@ body {
 }
 
 li a{
-  color: #ffffff;
+  color: #000000;
   display: block;
   text-align: center;
   padding: 15px 15px;
@@ -18,7 +18,7 @@ li a{
 }
 
 ul{
-  background-color: #000000;
+  background-color: #b7b7b7;
   margin: 0px;
   padding: 0px;
   overflow: hidden;
